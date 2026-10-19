@@ -12,7 +12,7 @@ const slides = [
 const things = [
   {
     label: "roblox",
-    text: "i don't even know how we ended up there but we did.",
+    text: "should i  give up from the vid lmao",
   },
   {
     label: "8ball",
